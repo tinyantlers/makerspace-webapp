@@ -67,15 +67,15 @@ function Navbar()
                             schedule
                         </Link>
                         </li> 
-                        <li className='nav-item'>
-                        <Link
+                        {/* <li className='nav-item'> */}
+                        {/* <Link
                             to='/blog'
                             className='nav-links'
                             onClick={closeMobileMenu}
                         >
                             blog
-                        </Link>
-                        </li>
+                        </Link> */}
+                        {/* </li> */}
                         <li>
                         <Link
                             to='/sign-up'
